@@ -1,0 +1,28 @@
+{
+  "id": "85de1751-ce0b-4b8e-a9d9-04bc6aee517b",
+  "name": "HTMLBlobs",
+  "publisher": "Red and Bundle",
+  "version": "1.0.0.0",
+  "brief": "HTML entries to show in ForNAV reports",
+  "description": "Create HTML entries to use in ForNAV reports",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "https://redandbundle.com",
+  "logo": "images/RedBundleLogo.png",
+	"dependencies": [ 
+    { "appId": "6f0293d3-86fc-4ff8-9632-54a580be6546", "name": "ForNAV Core", "publisher": "ForNAV", "version": "4.0.0.0" }
+	],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 80000,
+      "to": 80149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://redandbundle.com",
+  "showMyCode": true,
+  "runtime": "3.0"
+}
